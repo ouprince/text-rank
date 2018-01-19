@@ -1,0 +1,116 @@
+2018-01-17 10:20:13,313: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 10:20:13,315: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 10:20:13,523: DEBUG :Loading model cost 0.209 seconds.
+2018-01-17 10:20:13,523: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 10:21:49,646: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 10:21:49,647: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 10:21:49,854: DEBUG :Loading model cost 0.208 seconds.
+2018-01-17 10:21:49,854: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 10:27:58,017: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 10:27:58,018: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 10:27:58,355: DEBUG :Loading model cost 0.337 seconds.
+2018-01-17 10:27:58,355: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 10:37:18,721: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 10:37:18,722: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 10:37:19,051: DEBUG :Loading model cost 0.330 seconds.
+2018-01-17 10:37:19,051: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 10:51:48,036: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 10:51:48,038: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 10:51:48,247: DEBUG :Loading model cost 0.210 seconds.
+2018-01-17 10:51:48,247: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 10:54:01,069: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 10:54:01,070: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 10:54:01,407: DEBUG :Loading model cost 0.338 seconds.
+2018-01-17 10:54:01,407: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 10:58:41,303: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 10:58:41,304: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 10:58:41,512: DEBUG :Loading model cost 0.208 seconds.
+2018-01-17 10:58:41,512: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 11:00:08,526: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 11:00:08,527: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 11:00:08,865: DEBUG :Loading model cost 0.339 seconds.
+2018-01-17 11:00:08,865: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 11:01:59,349: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 11:01:59,350: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 11:01:59,680: DEBUG :Loading model cost 0.331 seconds.
+2018-01-17 11:01:59,680: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 11:39:46,968: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 11:39:46,969: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 11:39:47,310: DEBUG :Loading model cost 0.342 seconds.
+2018-01-17 11:39:47,310: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 11:49:58,034: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 11:49:58,036: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 11:49:58,243: DEBUG :Loading model cost 0.208 seconds.
+2018-01-17 11:49:58,243: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 11:54:59,440: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 11:54:59,442: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 11:54:59,651: DEBUG :Loading model cost 0.211 seconds.
+2018-01-17 11:54:59,652: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 11:55:56,549: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 11:55:56,550: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 11:55:56,758: DEBUG :Loading model cost 0.209 seconds.
+2018-01-17 11:55:56,759: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 11:57:07,238: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 11:57:07,239: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 11:57:07,578: DEBUG :Loading model cost 0.339 seconds.
+2018-01-17 11:57:07,578: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 12:01:10,249: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 12:01:10,250: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 12:01:10,458: DEBUG :Loading model cost 0.209 seconds.
+2018-01-17 12:01:10,459: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 12:46:46,487: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 12:46:46,488: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 12:46:46,824: DEBUG :Loading model cost 0.336 seconds.
+2018-01-17 12:46:46,824: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 12:48:46,435: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 12:48:46,436: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 12:48:46,769: DEBUG :Loading model cost 0.334 seconds.
+2018-01-17 12:48:46,769: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 12:53:40,065: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 12:53:40,066: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 12:53:40,275: DEBUG :Loading model cost 0.210 seconds.
+2018-01-17 12:53:40,275: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 12:54:32,841: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 12:54:32,842: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 12:54:33,050: DEBUG :Loading model cost 0.209 seconds.
+2018-01-17 12:54:33,051: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 12:55:26,224: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 12:55:26,226: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 12:55:26,433: DEBUG :Loading model cost 0.209 seconds.
+2018-01-17 12:55:26,434: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 12:58:33,237: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 12:58:33,238: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 12:58:33,448: DEBUG :Loading model cost 0.211 seconds.
+2018-01-17 12:58:33,448: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 13:09:27,175: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 13:09:27,176: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 13:09:27,384: DEBUG :Loading model cost 0.208 seconds.
+2018-01-17 13:09:27,384: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 13:11:59,043: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 13:11:59,044: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 13:11:59,253: DEBUG :Loading model cost 0.210 seconds.
+2018-01-17 13:11:59,254: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 13:12:52,690: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 13:12:52,691: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 13:12:52,900: DEBUG :Loading model cost 0.210 seconds.
+2018-01-17 13:12:52,900: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 13:14:22,066: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 13:14:22,067: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 13:14:22,407: DEBUG :Loading model cost 0.341 seconds.
+2018-01-17 13:14:22,407: DEBUG :Prefix dict has been built succesfully.
+2018-01-17 13:15:36,136: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-17 13:15:36,137: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-17 13:15:36,493: DEBUG :Loading model cost 0.357 seconds.
+2018-01-17 13:15:36,493: DEBUG :Prefix dict has been built succesfully.
+2018-01-18 05:21:49,901: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-18 05:21:49,903: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-18 05:21:50,112: DEBUG :Loading model cost 0.210 seconds.
+2018-01-18 05:21:50,112: DEBUG :Prefix dict has been built succesfully.
+2018-01-18 05:47:12,256: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-18 05:47:12,257: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-18 05:47:12,465: DEBUG :Loading model cost 0.209 seconds.
+2018-01-18 05:47:12,465: DEBUG :Prefix dict has been built succesfully.
+2018-01-18 05:55:27,656: DEBUG :Building prefix dict from the default dictionary ...
+2018-01-18 05:55:27,657: DEBUG :Loading model from cache /tmp/jieba.cache
+2018-01-18 05:55:27,997: DEBUG :Loading model cost 0.341 seconds.
+2018-01-18 05:55:27,997: DEBUG :Prefix dict has been built succesfully.
